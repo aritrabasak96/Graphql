@@ -1,8 +1,4 @@
 
-                             ![graphql](https://wptavern.com/wp-content/uploads/2016/10/graphql.png)
-
-
-
 ## Graphql Documentation
 
 > graphql with nodejs
