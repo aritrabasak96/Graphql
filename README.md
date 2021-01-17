@@ -1,5 +1,5 @@
 
-                             ![graphql]("https://wptavern.com/wp-content/uploads/2016/10/graphql.png")
+                             ![graphql](https://wptavern.com/wp-content/uploads/2016/10/graphql.png)
 
 
 
